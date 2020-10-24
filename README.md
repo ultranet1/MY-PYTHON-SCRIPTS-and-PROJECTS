@@ -1,6 +1,5 @@
 # MY-FIRST-CALCULATOR-WITH-TKINTER
-I designed a simple calculator 
-#Hello I am Alaran 
+I deigned a simple calculator 
 # This is my calculator with tkinter nodule
 
 from tkinter import *
